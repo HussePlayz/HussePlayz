@@ -53,6 +53,4 @@ Game.goldenCookie.life=0;
 Game.goldenCookie.spawn();
 
 /* Add cookies to your current cookie supply */
-Game.cookies= Game.cookies + 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999;
-/**
-* Enjoy!
+Game.cookies= Game.cookies + 1000000000;
